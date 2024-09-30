@@ -1,5 +1,6 @@
-﻿using E;
+﻿
 //using E_Commerce.Data;
+using E_Commerce.DataAccess.Data;
 using E_Commerce.Models;
 using Microsoft.AspNetCore.Mvc;
 
